@@ -16,13 +16,13 @@ Lo que más me interesa de la materia es que estoy aprendiendo herramientas nuev
 
 En este trabajo práctico se exploró el uso de DeepNote como entorno de desarrollo para proyectos de ciencia de datos. Se trabajó con la creación y organización de notebooks, la ejecución de celdas de código y markdown, y la gestión básica de proyectos dentro de la plataforma. El objetivo fue familiarizarse con el entorno de trabajo que se utilizará durante la cursada y comprender la estructura de un notebook orientado al análisis de datos y al trabajo colaborativo.
 
-**Enlace:** [001-Deepnote/TP01_Deepnote.ipynb](001-Deepnote/TP01_Deepnote.ipynb)
+**Enlace:** [001-DeepNote/TP01_Deepnote.ipynb](001-DeepNote/TP01_Deepnote.ipynb)
 
 ### TP 02: Introducción a la Programación en Python
 
 En este trabajo práctico se abordaron los conceptos fundamentales de programación en Python, incluyendo variables, tipos de datos, operadores, estructuras de control y funciones. A través de ejercicios prácticos se aplicaron estos conceptos para resolver problemas simples y consolidar las bases necesarias para el trabajo posterior con datos y desarrollo de modelos de inteligencia artificial.
 
-**Enlace:** [002-Python/TP02_PythonIntroduccion.ipynb](002-Python/TP02_PythonIntroduccion.ipynb)
+**Enlace:** [002-PythonIntroduccion/TP02_PythonIntroduccion.ipynb](002-PythonIntroduccion/TP02_PythonIntroduccion.ipynb)
 
 ### TP 03: Librerías de Python
 
@@ -41,4 +41,4 @@ El Trabajo Práctico Integrador consiste en el desarrollo de un proyecto aplicad
 - **Entrega 3:** Implementación del modelo o solución propuesta.
 - **Entrega Final:** Presentación del proyecto, visualización de resultados y storytelling.
 
-**Enlace:** [004-TPI/](004-TPI/)
+**Enlace:** [004-TPI/](TPI-EDA/)
