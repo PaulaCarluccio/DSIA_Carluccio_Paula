@@ -24,15 +24,13 @@ En este trabajo práctico se abordaron los conceptos fundamentales de programaci
 
 **Enlace:** [002-Python/TP02_PythonIntroduccion.ipynb](002-Python/TP02_PythonIntroduccion.ipynb)
 
-### TP 03: Control de Versiones con Git y GitHub
+### TP 03: Librerías de Python
 
-En este trabajo práctico se introdujo el uso de Git y GitHub como herramientas de control de versiones y colaboración en proyectos de desarrollo. Se trabajó con la creación de repositorios, versionado de archivos, commits, ramas y sincronización con repositorios remotos. El objetivo fue comprender cómo gestionar proyectos de manera colaborativa y mantener un historial organizado de los cambios realizados en el desarrollo de proyectos de ciencia de datos e inteligencia artificial.
+En este trabajo práctico se introdujo el uso de distintas librerías de Python aplicadas al trabajo con datos. Se realizaron ejercicios con herramientas como Pandas, NumPy, Matplotlib y Scikit-learn para organizar y analizar datos, realizar operaciones matemáticas, crear gráficos y conocer herramientas utilizadas en Machine Learning. El objetivo fue comprender para qué sirve cada librería y comenzar a aplicarlas en situaciones prácticas.
 
-**Enlace:** [003-GitGithub/TP03_GitGitHub.ipynb](003-GitGithub/TP03_GitGitHub.ipynb)
+**Enlace:** [003-PythonLibrerias/TP03_PythonLibreriaspynb.ipynb](003-PythonLibrerias/TP03_PythonLibreriaspynb.ipynb)
 
 ### TP 04: Trabajo Práctico Integrador (TPI)
-
-**Bajada Descriptiva:**
 
 El Trabajo Práctico Integrador consiste en el desarrollo de un proyecto aplicado de análisis de datos e inteligencia artificial. A lo largo de la cursada, los estudiantes trabajarán en distintas etapas del proyecto, aplicando las herramientas y conceptos vistos en clase, desde la exploración inicial de los datos hasta la presentación final de resultados. El objetivo es integrar los conocimientos adquiridos y desarrollar un flujo de trabajo completo dentro de un proyecto de ciencia de datos.
 
